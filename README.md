@@ -56,7 +56,7 @@ The **Bible Explorer** app is a Java-based program that allows users to read cha
 ## Contact
 For any questions or contributions, feel free to contact:
 - **Kristopher Marte**
-- **Email**: kristopher@example.com
+- **Email**: kristopher.marte@student.fairfield.edu
 
 ---
 
